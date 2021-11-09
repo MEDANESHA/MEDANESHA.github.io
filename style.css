@@ -778,7 +778,7 @@ footer span a:hover{
         box-sizing: border-box;
         background: url(background.Png) center center no-repeat;
         background-size: contain;
-        padding: 14.9% 5% 26.4%;
+        padding: 14.9% 5% 31.4%;
         padding-left: 5.5%;
         position: absolute;
         top: 0;
@@ -803,7 +803,7 @@ footer span a:hover{
         margin-left: 4rem;
     }
     .max-width{
-        padding: 0 23px;
+        padding: 0 30px;
     }
     .home .home-content .text-2{
         font-size: 60px;
