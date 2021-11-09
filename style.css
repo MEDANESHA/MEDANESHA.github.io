@@ -37,7 +37,7 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .services, .skills, .teams, .contact, footer{
+.about, .services, .skills, .work-section, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content,
@@ -48,6 +48,9 @@ section{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+}
+.work-section{
+    overflow:hidden;
 }
 section .title{
     position: relative;
